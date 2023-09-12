@@ -5,6 +5,9 @@
 ## Why Build It?
 > I decided to build this project as I identified that Spotify on the desktop version regardless of membership status doesn't have the ability to download songs locally to the computer system so I built it as I want the ability to have all my songs locally too for just incase I travel or go somewhere without internet and want to listen to music whilst working.
 
+## Lessons From Project
+> Althought the project is completed, I feel as if there is a much better approach to programming this giving better performance through optimising the code. There is a lot of room where code is repeated and some parts unused, however this is a lesson to myself for future projects to be more clean with code and make it more understandable. Elsewise, my knowledge of Python has increased and I used as many different techniques as I could to make this work.
+
 ## How To Use It?
 ```python
 Utilise the following commands: py -m pip install __module_name__ or python pip install __module_name__ or pip install __module_name__
