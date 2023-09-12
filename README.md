@@ -16,4 +16,14 @@ Utilise the following commands: py -m pip install __module_name__ or python pip 
 5. py -m pip install pytube
 6. py -m pip install moviepy
 ```
+### Changing Client ID and Client Secret
 ![Where to change the CLIENT_ID and CLIENT_SECRET](/Images/Authorisation.JPG)
+
+> You can find the client secret and ID by going to https://developer.spotify.com/documentation/web-api and logging into your spotify account and creating a new project. The link will guide you through how to properly do this and once done go into the source code and change those IDs in order to use the application.
+
+## Images of The Tool:
+![UserID Screen](/Images/Introduction.JPG)
+![Home Screen](/Images/HomeScreen.JPG)
+![Playlist Download](/Images/PlaylistDownloader.JPG)
+![Playlist Converter](/Images/PlaylistConverter.JPG)
+![Song Searcher and Downloader](/Images/SongSearcher.JPG)
